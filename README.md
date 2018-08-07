@@ -37,3 +37,11 @@ Android App | UniProject
     <td>SQLite</td>
   </tr>
 </table>
+
+<h2><b>Documentation</b></h2>
+<a href="https://github.com/carolingellner/TAXAM/blob/master/Konzept_1.0.pdf">TAXAM Konzept</a>
+
+
+<h2><b>Screenshots</b></h2>
+
+
