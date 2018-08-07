@@ -34,6 +34,6 @@ Android App | UniProject
   </tr>
   <tr>
     <td>Database</td>
-    <td>SQLite/td>
+    <td>SQLite</td>
   </tr>
 </table>
