@@ -1,6 +1,6 @@
 # TAXAM
 Android App | UniProject 
->> Development canceled and new start with another app (YOMM)
+>> Development was canceled. New start with another app (YOMM).
 
 <h2><b>General Information</b></h2>
 
