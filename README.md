@@ -45,9 +45,12 @@ Android App | UniProject
 
 <h2><b>Screenshots</b></h2>
 <p align="center">
-  <img src="" width="250" title="Startseite">
-  
-  
-  
+  <img src="https://github.com/carolingellner/TAXAM/blob/master/Screenshot_20160519-203838.png" width="250" title="Startseite">
+    <img src="https://github.com/carolingellner/TAXAM/blob/master/Screenshot_2016-05-17-17-28-16.png" width="250" title="Semesterübersicht">
+  <img src="https://github.com/carolingellner/TAXAM/blob/master/Screenshot_2016-05-19-19-38-42.png" width="250" title="Modulübersicht">
+  <img src="https://github.com/carolingellner/TAXAM/blob/master/Screenshot_20160519-203636.png" width="250" title="Neues Semester anlegen">
+  <img src="https://github.com/carolingellner/TAXAM/blob/master/Screenshot_20160519-203844.png" width="250" title="Neues Modul anlegen">
+  <img src="https://github.com/carolingellner/TAXAM/blob/master/Screenshot_20160519-203956.png" width="250" title="Neue Aufgabe anlegen">
+  <img src="https://github.com/carolingellner/TAXAM/blob/master/Screenshot_20160519-203913.png" width="250" title="Modul bearbeiten">
   </p>
 
