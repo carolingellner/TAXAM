@@ -1,5 +1,6 @@
 # TAXAM
-Android App | UniProject
+Android App | UniProject 
+>> Entwicklung abgebrochen und Neuanfang mit anderer App (YOMM)
 
 <h2><b>General Information</b></h2>
 
